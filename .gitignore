@@ -3,7 +3,9 @@ __pycache__/
 .env
 .venv
 
-/yolo
+/yolo/dataset-base
+/yolo/v8x
 /runs
+yolo26n.pt
 
 app/yolo/yolov8x.pt

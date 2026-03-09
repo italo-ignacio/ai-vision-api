@@ -1,0 +1,7 @@
+path: ./
+train: ../dataset-base/train
+val: ../dataset-base/val
+ 
+names: 
+  0: earmuff
+  1: headset

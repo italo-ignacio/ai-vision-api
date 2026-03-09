@@ -7,7 +7,7 @@ from app.models.yolo import Yolo
 from app.services.database import async_session
 from app.services.azure_blob import blob_service
 
-VERSION = "v8x"
+VERSION = "v11n"
 TRAIN_NUMBER = None
 
 RUNS_PATH = f"yolo/{VERSION}/runs/detect"
