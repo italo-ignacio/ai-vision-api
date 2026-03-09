@@ -1,0 +1,25 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.unusedImports": "explicit"
+  },
+  "editor.defaultFormatter": "charliermarsh.ruff",
+
+  "ruff.lint.enable": true,
+
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.languageServer": "Pylance",
+
+  "cSpell.words": [
+    "dotenv",
+    "NODEMAILER",
+    "sessionmaker",
+    "undefer"
+  ],
+
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  }
+}

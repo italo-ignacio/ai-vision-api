@@ -1,0 +1,18 @@
+fastapi==0.131.0
+uvicorn[standard]==0.41.0
+python-jose==3.5.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.22
+ultralytics==8.4.14
+opencv-python==4.13.0.92
+numpy==2.4.2
+bcrypt==4.0.1
+psycopg[binary]==3.3.3 
+python-dotenv==1.2.1
+alembic==1.18.4 
+SQLAlchemy==2.0.46
+asyncpg==0.31.0
+asyncio==4.0.0
+torch==2.10.0+cu126
+torchvision==0.25.0+cu126
+--extra-index-url https://download.pytorch.org/whl/cu126
